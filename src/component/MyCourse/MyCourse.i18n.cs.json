@@ -1,0 +1,17 @@
+ {
+    "COURSE_EMPTY_DATA":"Nemáte žádné kurzy",
+    "BROWSE_COURSE":"Procházet kurz",
+    "STUDENT_TEST_RESULT":"Zobrazit výsledky studentů",
+    "COURSE_LIST_NAME":"Kurz",
+    "COURSE_LIST_ACTION":"Akce",
+    "COURSE_LIST_TERM":"Termín",
+    "COURSE_LIST_ORGANIZATION":"Organizace",
+    "COURSE_LIST_BRANCH":"Pobočka",
+    "COURSE_LIST_CLASSROOM":"Třída",
+    "COURSE_LIST_STUDY_STATE":"Stav",
+    "STUDENT_STUDY_FINSH": "Kurz jsem ukončil",
+    "STUDENT_STUDY": "Kurz studji",
+    "STUDENT_TEST_ATTENDANCE":"Docházka studentů",
+    "STUDENT_STUDENT_EVALUATION":"Hodnocení studentů"
+    
+ }

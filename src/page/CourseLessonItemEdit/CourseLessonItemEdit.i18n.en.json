@@ -1,0 +1,8 @@
+{
+    "COURSE_LESSON_ITEM_TITLE":"Edit an item",
+    "COURSE_LESSON_ITEM_TAB_BASIC_INFORMATION":"Basic information",
+    "COURSE_LESSON_ITEM_NAME":"Title",
+    "COURSE_LESSON_ITEM_DESCRIPTION":"Brief description",
+    "COURSE_LESSON_ITEM_TEMPLATE":"Template",
+    "ERROR.COURSE_LESSON_ITEM.COURSE_LESSON_ITEM_NAME_IS_EMPTY":"Enter an item name"
+}

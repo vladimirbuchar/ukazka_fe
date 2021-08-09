@@ -1,0 +1,12 @@
+{
+    "CLASS_ROOM_TITLE_EDIT":"Editace třídy",
+    "CLASS_ROOM_NAME":"Jméno třídy",
+    "CLASS_ROOM_DESCRIPTION":"Popis",
+    "CLASS_ROOM_FLOOR":"Podlaží",
+    "CLASS_ROOM_CAPACITY":"Maximální kapacita třídy",
+    "CLASS_ROOM_BASIC_INFORMATION_SAVE":"Uložit",
+    "CLASS_ROOM_BASIC_DATA":"Základní údaje",
+    "ERROR.CLASS_ROOM.CLASS_ROOM_NAME_IS_EMPTY":"Zadejte jméno třídy",
+    "ERROR.CLASS_ROOM.MAX_CAPACITY_IS_LESS_THEN_ZERO":"Kapacita třídy musí být větší nebo rovna  nule",
+    "CLASS_ROOM_TIME_TABLE":"Rozvrh hodin"
+}

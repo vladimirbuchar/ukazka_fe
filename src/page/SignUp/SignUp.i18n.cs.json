@@ -1,0 +1,13 @@
+{
+    "SIGN_UP_TITLE":"Registrace",
+    "SIGN_UP_FIRST_NAME":"Jméno",
+    "SIGN_UP_LAST_NAME":"Příjmení",
+    "SIGN_UP_EMAIL_ADDRESS":"Emailová adresa",
+    "SIGN_UP_PASSWORD":"Heslo",
+    "SIGN_UP_PASSWORD_AGAIN":"Heslo znovu",
+    "SIGN_UP_SUBMIT_BUTTON":"Vytvořit účet",
+    "SIGN_UP_LINK_TO_SIGN_IN":"Již jste zaregistrovaní? Přihlaste se",
+    "ERROR.USER.EMAIL_EXIST":"Zadaná emailová adresa již existuje",
+    "SIGN_UP_REGISTRATION_OK":"Pro dokončení registrace, nyní přejděte do Vaší emailové schránky, kam jsme Vám zaslali odkaz pro aktivaci Vašeho účtu.",
+    "SIGN_UP_CREATE_NEW_ORGANIZATION":"Vytvořit novou organizaci"
+}

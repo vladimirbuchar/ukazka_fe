@@ -1,0 +1,19 @@
+{
+    "ORGANIZATION_EMPTY_DATA":"You are not in any organization.",
+    "ORGANIZATION_BUTTON_ADD":"New organization",
+    "ORGANIZATION_BUTTON_FIND":"Search for existing organizations",
+    "ORGANIZATION_DELETE":"Delete",
+    "ORGANIZATION_EDIT":"Edit",
+    "ORGANIZATION_COURSE":"Courses",
+    "ORGANIZATION_BRANCH":"Branches",
+    "ORGANIZATION_LEAVE":"Leave",
+    "ORGANIZATION_DELETE_TITLE":"Delete the organization",
+    "ORGANIZATION_DELETE_CONTENT":"Are you sure you want to delete the organization {name}?",
+    "ORGANIZATION_LEAVE_CONTENT":"Are you sure you want to leave the organization {name}",
+    "ORGANIZATION_LEAVE_TITLE":"Leave the organization",
+    "ORGANIZATION_LECTOR":"Lecturer",
+    "ORGANIZATION_STUDENT":"Student",
+    "ORGANIZATION_ADMINISTRATOR":"Administrator",
+    "COURSE_EDITOR":"Course materials editor",
+    "COURSE_ADMINISTRATOR": "Course manager"
+}

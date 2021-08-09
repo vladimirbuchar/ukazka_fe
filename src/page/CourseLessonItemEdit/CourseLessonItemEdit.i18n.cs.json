@@ -1,0 +1,14 @@
+{
+    "COURSE_LESSON_ITEM_TITLE":"Editace položky",
+    "COURSE_LESSON_ITEM_TAB_BASIC_INFORMATION":"Základní informace",
+    "COURSE_LESSON_ITEM_NAME":"Nadpis",
+    "COURSE_LESSON_ITEM_DESCRIPTION":"Stručný popis",
+    "COURSE_LESSON_ITEM_TEMPLATE":"Šablona",
+    "ERROR.COURSE_LESSON_ITEM.COURSE_LESSON_ITEM_NAME_IS_EMPTY":"Zadejte jméno položky",
+    "COURSE_LESSON_ITEM_PREVIEW":"Náhled",
+    "ERROR.COURSE_LESSON_ITEM.COURSE_LESSON_ITEM_TEMPLATE_IS_EMPTY":"Vyberte šablonu",
+    "COURSE_LESSON_ITEM_YOUTUBE":"Sem vložte iframe youtube",
+    "EROR_FILE_IS_NOT_SELECT":"Vyberte soubor",
+    "EROR_YOUTUBE_VIDEO": "Zadejte youtube video"
+
+}

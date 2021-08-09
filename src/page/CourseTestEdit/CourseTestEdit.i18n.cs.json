@@ -1,0 +1,20 @@
+{
+    "COURSE_TEST_TITLE":"Editace testu",
+    "COURSE_TEST_TAB_BASIC_INFORMATION":"Základní informace",
+    "COURSE_TEST_NAME":"Jméno testu",
+    "COURSE_TEST_DESCRIPTION":"Popis testu",
+    "COURSE_TEST_RANDOM_GENERATE_QUESTION":"Generovat náhodné pořadí otázek",
+    "COURSE_TEST_QUESTION_COUNT_IN_TEST":"Počet otázek v testu",
+    "COURSE_TEST_TIME_LIMIT":"Časový limit(v minutách)",
+    "COURSE_TEST_DESIRED_SUCCESS":"Požadovaný počet bodů",
+    "COURSE_TEST_BANKOF_QUESTION":"Vybrat otázky z těchto bank otázek",
+    "COURSE_TEST_BANKOF_QUESTION_IS_NOT_SELECT":"Není vybrána žádná banka otázek",
+    "ERROR.COURSE_TEST.QUESTION_COUNT_IS_NOT_VALID_VALUE":"Počet otázek v testu musí být větší než nula",
+    "ERROR.COURSE_TEST.TIME_LIMIT_IS_NOT_VALID_VALUE":"Časový limit musí být větší než nula",
+    "ERROR.COURSE_TEST.DESIRED_SUCCESS_IS_NOT_VALID_VALUE":"Požadovaný počet bodů musí být větší než nula",
+    "COURSE_TEST_MAX_TEST":"Maximální počet pokusů",
+    "COURSE_TEST_MAX_TEST_UNLIMITED":"Neomezeno",
+    "COURSE_TEST_MAX_TEST_TRUE_TEST":"Do splnění podmínek testu",
+    "COURSE_TEST_MAX_TEST_TRUE_CUSTOM":"Vlastní",
+    "COURSE_TEST_MAX_TEST_TRUE_CUSTOM_TEXT":"Počet pokusů"
+}

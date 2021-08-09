@@ -1,0 +1,15 @@
+{
+    "BANK_OF_QUESTION_TITLE":"Editing a bank of questions",
+    "BANK_OF_QUESTION_TAB_BASIC_INFORMATION":"Basic information",
+    "BANK_OF_QUESTION_TAB_QUESTIONS":"Questions",
+    "BANK_OF_QUESTION_NAME":"Name of the bank of questions",
+    "BANK_OF_QUESTION_DESCRIPTION":"Description",
+    "BANK_OF_QUESTION__ITEM": "Add an item",
+    "BANK_OF_QUESTION_BUTTON_ADD": "Add a question",
+    "BANK_OF_QUESTION_QUESTION":"Question",
+    "BANK_OF_QUESTION_QUESTION_DELETE_TITLE":"Are you sure you want to delete?",
+    "BANK_OF_QUESTION_QUESTION_DELETE_CONTENT":"Are you sure you want to delete {question}",
+    "BANK_OF_QUESTION_QUESTION_DELETE":"Delete",
+    "BANK_OF_QUESTION_GO_TO_ANSWER":"Answers",
+    "ERROR.BANK_OF_QUESTION.NAME_IS_EMPTY":"Fill in the name of the bank of questions"
+}

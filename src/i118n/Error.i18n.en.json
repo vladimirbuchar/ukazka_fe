@@ -1,0 +1,7 @@
+{
+    "ERROR.BAD_LICENSE":"The license of this organization does not allow you to complete the selected action",
+    "ERROR.BAD_ACCESS_TOKEN":"You have the wrong access token",
+    "ERROR.PERMITION_DENIED":"You do not have permission to complete the selected action",
+    "ERROR.REQUEST_IS_NULL":"The client sent an empty request",
+    "SYSTEM_ERROR":"General system error"
+}

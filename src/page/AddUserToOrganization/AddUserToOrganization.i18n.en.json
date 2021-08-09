@@ -1,0 +1,10 @@
+{
+    "ADD_USER_TO_ORGANIZATION_TITLE":"Add an user to the organization",
+    "ADD_USER_TO_ORGANIZATION_BATIC_INFORMATION": "Basic information",
+    "ADD_USER_TO_ORGANIZTION_USER_EMAILS":"Enter users‘ emails, separated by commas",
+    "ADD_USER_TO_ORGANIZATION_SAVE":"Save",
+    "ADD_USER_TO_ORGANIZATION_ROLE":"Role",
+    "ERROR_SELECT_ROLE":"select role",
+    "ERROR_SELECT_EMAIL":"Enter email addresses",
+    "ERROR.ADD_USER_TO_ORGANIZATION.EMAIL_IS_NOT_VALID":"Some of the entered email addresses are invalid"
+}

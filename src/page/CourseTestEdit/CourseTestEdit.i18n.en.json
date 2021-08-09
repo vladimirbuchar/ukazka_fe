@@ -1,0 +1,15 @@
+{
+    "COURSE_TEST_TITLE":"Test editing",
+    "COURSE_TEST_TAB_BASIC_INFORMATION":"Basic information",
+    "COURSE_TEST_NAME":"Test name",
+    "COURSE_TEST_DESCRIPTION":"Test description",
+    "COURSE_TEST_RANDOM_GENERATE_QUESTION":"Generate a random order of questions",
+    "COURSE_TEST_QUESTION_COUNT_IN_TEST":"Number of questions in the test",
+    "COURSE_TEST_TIME_LIMIT":"Time limit (in minutes)",
+    "COURSE_TEST_DESIRED_SUCCESS":"Required number of points",
+    "COURSE_TEST_BANKOF_QUESTION":"Select questions from these bank of questions",
+    "COURSE_TEST_BANKOF_QUESTION_IS_NOT_SELECT":"It was not selected any bank of questions",
+    "ERROR.COURSE_TEST.QUESTION_COUNT_IS_NOT_VALID_VALUE":"The number of questions in the test must be greater than zero",
+    "ERROR.COURSE_TEST.TIME_LIMIT_IS_NOT_VALID_VALUE":"The time limit must be greater than zero",
+    "ERROR.COURSE_TEST.DESIRED_SUCCESS_IS_NOT_VALID_VALUE":"The required number of points must be greater than zero"
+}

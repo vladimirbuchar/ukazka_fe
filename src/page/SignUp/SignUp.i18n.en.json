@@ -1,0 +1,10 @@
+{
+    "SIGN_UP_TITLE":"Registration",
+    "SIGN_UP_FIRST_NAME":"Name",
+    "SIGN_UP_LAST_NAME":"Surname",
+    "SIGN_UP_EMAIL_ADDRESS":"Email address",
+    "SIGN_UP_PASSWORD":"Password",
+    "SIGN_UP_PASSWORD_AGAIN":"Password again",
+    "SIGN_UP_SUBMIT_BUTTON":"Create an account",
+    "SIGN_UP_LINK_TO_SIGN_IN":"Already have an account? Log in"
+}

@@ -1,0 +1,8 @@
+{
+    "ORGANIZATION_OWNER":"Vlastník organizace",
+    "ORGANIZATION_ADMINISTRATOR":"Správce organizace",
+    "COURSE_ADMINISTATOR":"Správce kurzů",
+    "COURSE_EDITOR":"Editor materiálů ke kurzům",
+    "LECTOR":"Lektor",
+    "STUDENT":"Student"
+}

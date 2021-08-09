@@ -1,0 +1,7 @@
+{
+    "ERROR.BAD_LICENSE":"Licence této organizace, neumožňuje dokončit zvolenou akci",
+    "ERROR.BAD_ACCESS_TOKEN":"Máte špatný přístupový token",
+    "ERROR.PERMITION_DENIED":"Nemáte oprávnění k dokončení zvolené akce",
+    "ERROR.REQUEST_IS_NULL":"Klient odeslal prázdný request",
+    "SYSTEM_ERROR":"Obecná chyba systému"
+}

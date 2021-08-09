@@ -1,0 +1,7 @@
+{
+    "SEND_TEST":"Evaluate the test",
+    "START_TEST":"Run the test",
+    "TEST_WAS_SEND":"Váš test nyní čeká na vyhodnocení lektorem",
+    "TEST_WAS_END":"Váš test byl ukončen z důvodu opuštení okna prohlížeče",
+    "COURSE_TEST_TIME_LEFT":"Zbývajicí čas:"
+}

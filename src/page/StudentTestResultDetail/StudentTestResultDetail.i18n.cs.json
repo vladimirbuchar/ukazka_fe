@@ -1,0 +1,12 @@
+{
+    "STUDENT_TEST_ANSWERS":"Odpovědi studenta",
+    "MANUAL_CONTROL":"Nutné zkontrolovat manuálně",
+    "STUDENT_TEST_QUESTION":"Otázka:",
+    "STUDENT_SCORE_RESULT":"Získané body",
+    "STUDENT_RESUT_SUMMARY_COUNT":"Celkový počet bodů",
+    "TEST_STATUS_TRUE":"Test splněn",
+    "TEST_STATUS_FALSE":"Test nesplněn",
+    "STUDENT_RESULT_ANSWER_TRUE": "Správná odpověď",
+    "STUDENT_RESULT_ANSWER_FALSE": "Špatná  odpověď",
+    "TEST_STATUS_LECTOR":"Čeká na vyhodnocení lekotrem"
+}

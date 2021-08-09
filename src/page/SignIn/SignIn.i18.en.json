@@ -1,0 +1,10 @@
+{
+    "EMAIL_ADDRESS":"Your email",
+    "PASSWORD": "Your  password",
+    "REMEMBER_ME":"Stay logged in",
+    "FORGOT_PASSWORD":"Did you forget the password?",
+    "SIGN_UP":"Don't have an account? Sign up",
+    "SIGN_IN":"Login",
+    "SIGN_IN_BUTTON":"Log in",
+    "SIGNIN_BAD_LOGIN":"Incorrect username or password"
+}

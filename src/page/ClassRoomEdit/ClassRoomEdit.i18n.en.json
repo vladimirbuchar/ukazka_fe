@@ -1,0 +1,11 @@
+{
+    "CLASS_ROOM_TITLE_EDIT":"Class editing",
+    "CLASS_ROOM_NAME":"Class name",
+    "CLASS_ROOM_DESCRIPTION":"Description",
+    "CLASS_ROOM_FLOOR":"Floor",
+    "CLASS_ROOM_CAPACITY":"Maximum class capacity",
+    "CLASS_ROOM_BASIC_INFORMATION_SAVE":"Save",
+    "CLASS_ROOM_BASIC_DATA":"Basic information",
+    "ERROR.CLASS_ROOM.CLASS_ROOM_NAME_IS_EMPTY":"Enter a class name",
+    "ERROR.CLASS_ROOM.MAX_CAPACITY_IS_LESS_THEN_ZERO":"Class capacity must be greater than or equal to zero"
+}

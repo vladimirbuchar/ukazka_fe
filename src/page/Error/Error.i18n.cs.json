@@ -1,0 +1,6 @@
+{
+    "ERROR500_TITLE":"Chyba serveru",
+    "ERROR500_TEXT":"Při komunikaci s WebApi serverem došlo k chybě.Pokud problém přetrvává kontaktujte naší uživatelskou podporu",
+    "ERROR404_TITLE":"Záznam nenalezen",
+    "ERROR404_TEXT":"Je nám líto, ale nepodařilo se nám nic najít"
+}

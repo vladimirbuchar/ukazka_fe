@@ -1,0 +1,10 @@
+{
+    "COURSE_LESSON_TITLE":"Editace lekce",
+    "COURSE_LESSON_TAB_BASIC_INFORMATION":"Základní informace",
+    "COURSE_LESSON_TAB_LESSON_ITEMS":"Položky",
+    "COURSE_LESSON_NAME":"Jméno lekce",
+    "COURSE_ĹESSON_DESCRIPTION":"Shrnutí lekce",
+    "COURSE_ADD_LESSON_ITEM": "Přidat položku",
+    "ERROR.COURSE_LESSON.COURSE_LESSON_NAME_IS_EMPTY":"Jméno lekce je povinné pole"
+
+}

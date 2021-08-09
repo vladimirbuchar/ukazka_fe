@@ -1,0 +1,11 @@
+{
+    "VALIDATION_REQUIRED":"Required field",
+    "VALIDATION_EMAIL":"Email is not valid",
+    "VALIDATION_PASSWORD":"The passwords do not match",
+    "VALIDATION_PRICE":"The price must be greater than 0",
+    "VALIDATION_SALE":"The discount must be between 0 -100",
+    "VALIDATION_STUDENT_COUNT": "The number of students must be greater than (equal to) 0 and the minimum number of students must be less than the maximum number",
+    "VALIDATION_PHONE":"The phone number is not valid",
+    "VALIDATION_URL":"The url is not valid",
+    "VALIDATION_GREATER_THAN_ZERO":"The value must be greater than zero"
+}

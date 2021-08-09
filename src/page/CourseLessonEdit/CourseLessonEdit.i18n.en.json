@@ -1,0 +1,10 @@
+{
+    "COURSE_LESSON_TITLE":"Lesson editing",
+    "COURSE_LESSON_TAB_BASIC_INFORMATION":"Basic information",
+    "COURSE_LESSON_TAB_LESSON_ITEMS":"Items",
+    "COURSE_LESSON_NAME":"Lesson name",
+    "COURSE_ĹESSON_DESCRIPTION":"Lesson summary",
+    "COURSE_ADD_LESSON_ITEM": "Add an item",
+    "ERROR.COURSE_LESSON.COURSE_LESSON_NAME_IS_EMPTY":"Lesson name is a required field"
+
+}

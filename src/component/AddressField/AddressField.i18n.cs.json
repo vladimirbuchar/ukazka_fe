@@ -1,0 +1,8 @@
+{
+    "ADDRESS_CONTRY":"Stát",
+    "ADDRESS_REGION":"Region",
+    "ADDRESS_CITY": "Město",
+    "ADDRESS_STREET":"Ulice",
+    "ADDRESS_HOUSE_NUMBER": "Číslo popisné/orientační",
+    "ADDRESS_ZIP_CODE":"PSČ"
+}

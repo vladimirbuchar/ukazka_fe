@@ -1,0 +1,8 @@
+{
+    "ORGANIZATION_OWNER":"The owner of the organization",
+    "ORGANIZATION_ADMINISTRATOR":"Administrator",
+    "COURSE_ADMINISTATOR":"Course manager",
+    "COURSE_EDITOR":"Course materials editor",
+    "LECTOR":"Lecturer",
+    "STUDENT":"Student"
+}

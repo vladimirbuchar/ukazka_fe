@@ -1,0 +1,9 @@
+{
+    "COURSE_MATERIAL_TITLE":"Editace materiálu ke kurzu",
+    "COURSE_MATERIAL_NAME":"Jméno",
+    "COURSE_MATERIAL_BASIC_INFORMATION":"Základní informace",
+    "ERROR.COURSE_MATERIAL.NAME_IS_EMPTY":"Vyplněte pole Jméno",
+    "COURSE_TAB_MATERIAL_LESSON":"Lekce",
+    "COURSE_TAB_MATERIAL_LESSON_FILES":"Přiložené soubory",
+    "COURSE_MATERIAL_FILE_NAME":"Soubor"
+}

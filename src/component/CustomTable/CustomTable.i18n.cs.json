@@ -1,0 +1,16 @@
+{
+    "CUSTOM_TABLE_SHOW_COLUMNS":"Zobrazené sloupce",
+    "CUSTOM_TABLE_DELETE_SELECTED":"Smazat vybrané",
+    "DELETE_MORE_ITEMS":"Opravdu si přejete smazat vybrané položky?",
+    "DELETE_MORE_ITEMS_NO_SELECT":"Nevybrali jste žádnou položku",
+    "TABLE_SHOW_COLUMNS":"Zobrazené sloupce",
+    "TABLE_SELECT_COLUMNS":"Vyberte sloupce",
+    "TABLE_SEARCH":"Vyhledávání",
+    "TABLE_SELECTED_ROWS":"{0} vybrané řádky",
+    "TABLE_SAVE":"Uložit",
+    "TABLE_CANCEL":"Zrušit",
+    "TABLE_EMPTY":"Nebyly nalezeny žádné záznamy"
+
+
+    
+}

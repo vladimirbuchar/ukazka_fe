@@ -1,0 +1,17 @@
+{
+    "BANK_OF_QUESTION_TITLE":"Editace banky otázek",
+    "BANK_OF_QUESTION_TAB_BASIC_INFORMATION":"Základní informace",
+    "BANK_OF_QUESTION_TAB_QUESTIONS":"Otázky",
+    "BANK_OF_QUESTION_NAME":"Jméno banky otázek",
+    "BANK_OF_QUESTION_DESCRIPTION":"Popis",
+    "BANK_OF_QUESTION__ITEM": "Přidat položku",
+    "BANK_OF_QUESTION_BUTTON_ADD": "Přidat otázku",
+    "BANK_OF_QUESTION_QUESTION":"Otázka",
+    "BANK_OF_QUESTION_QUESTION_DELETE_TITLE":"Opravdu si přejete smazat?",
+    "BANK_OF_QUESTION_QUESTION_DELETE_CONTENT":"Opravdu si přejete smazat {question}",
+    "BANK_OF_QUESTION_QUESTION_DELETE":"Smazat",
+    "BANK_OF_QUESTION_GO_TO_ANSWER":"Odpovědi",
+    "ERROR.BANK_OF_QUESTION.NAME_IS_EMPTY":"Vyplňte jméno banky otázek",
+    "DEFAULT_BANK_OF_QUESTION":"Nezařazené otázky",
+    "BANK_OF_QUESTION_QUESTION_TITLE":"Banka otázek"
+}

@@ -1,0 +1,23 @@
+{
+ "QUESTION_EDIT_TITLE":"Editace otázky",
+ "QUESTION_TAB_BASIC_INFORMATION":"Základní informace",
+ "QUESTION_ANSWERS":"Odpovědi",
+ "QUESTION_ANSWER_MODE":"Mód odpovědi",
+ "QUESTION":"Otázka",
+ "QUESTION_EDIT":"Upravit",
+ "QUESTION_ANSWER_BUTTON_ADD":"Přidat odpověď",
+ "QUESTION_ANSWER_TABLE_TITLE":"Odpověď",
+ "ANSWER_EDIT":"Upravit",
+ "QUESTION_ANSWER_DELETE_TITLE":"Opravdu si přejete odstranit",
+ "QUESTION_ANSWER_DELETE_CONTENT":"Opravdu si přejete odstranit odpověď {answer}",
+ "QUESTION_ANSWER_DELETE":"Smazat",
+ "QUESTION_ANSWER_SHOW":"Odpovědi",
+ "ERROR.QUESTION.QUESTION_IS_EMPTY":"Zadejte otázku",
+ "QUESTION_ANSWER_TABLE_IS_TRUE_ANSWER":"Správná odpověď",
+ "QUESTION_BANK_OF_QUESTION":"Banka otázek",
+ "ERROR.QUESTION.SELECT_ANSWER_MODE":"Vyberte mód odopovědi",
+ "ERROR.QUESTION.NEED_TRUE_ANSWER":"Otázka musí mít alespoň jednu správnou odpověď",
+ "QUESTION_QUESTION_MODE":"Mód otázky",
+ "ERROR.QUESTION.SELECT_QUESTION_MODE":"Vyberte mód otázky"
+ 
+}

@@ -1,0 +1,21 @@
+{
+    "ONLINE":"Online course",
+    "ATTENDANCE": "In-class course",
+    "COMBINED":"Combined course: in-house and online",
+    "NEW":"New Course",
+    "IN_PREPARATION":"Course in preparation",
+    "OPEN":"Course is open to students",
+    "ONGOING":"Ongoing course",
+    "CLOSED":"Cancelled course",
+    "BASIC_TEMPLATE":"Basic template",
+    "BASIC_TEMPLATE_IMAGE":"Basic template with a picture",
+    "SELECT_MANY":"Choice of multiple options",
+    "TEXT":"Text answer",
+    "SELECT_ONE":"Select one answer",
+    "CODEBOOK_SELECT_VALUE":"=== Select  === ",
+    "POWER_POINT":"Imported slide from powerpoint",
+    "FREE_LICENSE":"FREE",
+    "STANDARD_LICENSE":"STANDARD",
+    "PROFESIONAL_LICENSE":"PROFESIONAL",
+    "ENTERPRISE_LICENSE":"ENTERPRISE"
+}

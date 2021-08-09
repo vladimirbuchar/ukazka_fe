@@ -1,0 +1,7 @@
+{
+    "ADD_STUDENT_TO_COURSE_TERM":"Zadejte emaily studentů, oddělených čárkou",
+    "ADD_STUDENT_TO_TERM":"Přidat studenty",
+    "ADD_STUDENT_TO_TERM_BASIC_INFORMATION":"Základní informace",
+    "ERROR.COURSE.ADD_MORE_STUDENTS_THAN_MAXIMUM":"Nelze přidat dalšího studenta",
+    "ERROR.ADD_STUDENT_TO_COURSE.EMAIL_IS_NOT_VALID":"Některý ze zadaných emailů není validní"
+}

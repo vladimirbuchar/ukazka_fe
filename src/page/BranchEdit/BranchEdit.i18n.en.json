@@ -1,0 +1,23 @@
+{
+    "BRANCH_TITLE_EDIT":"Editing the branch",
+    "BRANCH_TAB_BASIC_INFORMATION":"Basic information",
+    "BRANCH_TAB_CLASSROOM":"Classes",
+    "BRANCH_NAME":"Branch name",
+    "BRANCH_DESCRIPTION":"Description",
+    "BRANCH_IS_MAIN_BRANCH":"Main branch",
+    "BRANCH_ADDRESS":"Branch address",
+    "BRANCH_BASIC_INFORMATION_SAVE":"Save",   
+    "BRANCH_BASIC_INFORMATION_SAVE_ANA_BACK":"Save and go back to the list of branches",   
+    "BRANCH_CLASSROOM_NAME": "Name",
+    "BRANCH_CLASSROOM_DESCRIPTION": "Description",
+    "BRANCH_CLASSROOM_FLOOR": "Floor",
+    "BRANCH_CLASSROOM_CAPACITY": "Maximum capacity",
+    "CLASSROOM_BUTTON_ADD":"Add a class",
+    "BRANCH_CLASS_ROOM_EDIT":"Edit",
+    "BRANCH_CLASS_ROOM_DELETE_TITLE":"Really delete",
+    "BRANCH_CLASS_ROOM_DELETE_CONTENT":"Are you sure you want to delete the class {name}",
+    "BRANCH_CLASS_ROOM_DELETE":"Delete",
+    "ERROR.BRANCH.EMAIL_IS_NOT_VALID":"The email address you entered is not valid",
+    "ERROR.BRANCH.IS_NOT_VALID_URI":"The URL you entered is invalid",
+    "ERROR.BRANCH.IS_NOT_VALID_PHONE_NUMBER":"The phone number you entered is not valid"
+}

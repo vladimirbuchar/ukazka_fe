@@ -1,0 +1,7 @@
+{
+    "ADD_STUDENT_TO_COURSE_TERM":"Enter students‘ emails, separated by commas",
+    "ADD_STUDENT_TO_TERM":"Add students",
+    "ADD_STUDENT_TO_TERM_BASIC_INFORMATION":"Basic information",
+    "ERROR.COURSE.ADD_MORE_STUDENTS_THAN_MAXIMUM":"You cannot add another student",
+    "ERROR.ADD_STUDENT_TO_COURSE.EMAIL_IS_NOT_VALID":"One of the entered emails is not valid"
+}

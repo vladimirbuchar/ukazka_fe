@@ -1,0 +1,15 @@
+{
+    "MENU_UN_LOGGINED_USER":"Nepřihlášený uživatel",
+    "MENU_SIGN_IN":"Přihlásit se",
+    "MENU_SIGN_UP":"Zaregistrovat se",
+    "MENU_MY_PROFILE":"Můj profil",
+    "MENU_MY_ORGANIZATIONS":"Moje organizace",
+    "MENU_MY_COURSES":"Moje kurzy",
+    "MENU_ABOUT_US":"O nás",
+    "MENU_ABOUT_PRODUCT":"O produktu",
+    "MENU_ABOUT_PRICE":"Ceník",
+    "MENU_ABOUT_CONTACT":"Kontatujte nás",
+    "MENU_ABOUT_HELP":"Nápověda a podpora",
+    "MENU_LOG_OUT":"Odhlásit se",
+    "MENU_DASHBOARD":"Dashboard"
+}

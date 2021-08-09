@@ -1,0 +1,14 @@
+[
+    {
+        "Id":0,
+        "Text":"COURSE_TEST_MAX_TEST_UNLIMITED"
+    },
+    {
+        "Id":-1,
+        "Text":"COURSE_TEST_MAX_TEST_TRUE_TEST"
+    },
+    {
+        "Id":-2,
+        "Text":"COURSE_TEST_MAX_TEST_TRUE_CUSTOM"
+    }
+]

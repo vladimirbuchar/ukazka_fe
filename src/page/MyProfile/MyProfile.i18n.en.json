@@ -1,0 +1,21 @@
+{
+    "MY_PROFILE_TITLE":"My profile",
+    "MY_PROFILE_BASIC_DATA":"Basic information",
+    "MY_PROFILE_CHANGE_PASSWORD":"Changing the password",
+    "MY_PROFILE_FIRST_NAME":"Name",
+    "MY_PROFILE_LAST_NAME": "Surname",
+    "MY_PROFILE_PERNAMENT_ADDRESS":"Permanent residence",
+    "MY_PROFILE_MAILING_ADDRESS":"Mailing address",
+    "MY_PROFILE_BASIC_INFORMATION_SAVE":"Save",
+    "MY_PROFILE_OLD_PASSWORD":"Original password",
+    "MY_PROFILE_NEW_PASSWORD":"New password",
+    "MY_PROFILE_NEW_PASSWORD2":"New password again",
+    "MY_PROFILE_CHANGE_PASSWORD_BUTTON":"Change the password",
+    "MY_PROFILE_OTHER_SETTINGS":"Other settings",
+    "MY_PROFILE_LOG_OUT_ALL_DEVICES":"Log out of all devices",
+    "MY_PROFILE_DELETE_ACOUNT":"Delete the account",
+    "MY_PROFILE_DELETE_DIALOG_TITLE":"Are you sure you want to delete your account?",
+    "MY_PROFILE_DELETE_DIALOG_CONTENT":"Are you sure you want to delete your account? If you delete your account, you will lose you access to the courses and organizations you are a member of",
+    "MY_PROFILE_DELETE_DIALOG_YES":"Yes",
+    "MY_PROFILE_DELETE_DIALOG_NO":"No"
+}

@@ -1,0 +1,12 @@
+{
+    "MESSAGE_TEMPLATE_NAME":"Jméno šablony",
+    "MESSAGE_TEMPLATE_REPLY":"Odpověď zaslat na email",
+    "MESSAGE_TEMPLATE_TYPE":"Typ zprávy",
+    "SEND_MESSAGE_TITLE":"Šablona",
+    "SEND_MESSAGE_TAB_BASIC_INFORMATION":"Základní informace",
+    "ERROR.SEND_MESSAGE.NAME_IS_EMPTY":"Vyplňte pole Jméno šablony",
+    "ERROR.SEND_MESSAGE.SELECT_MESSAGE_TYPE":"Vyberte typ zprávy",
+    "ERROR.SEND_MESSAGE.REPLY_EMAIL_IS_EMPTY":"Pole Odpověď zaslat na email je povinné",
+    "ERROR.SEND_MESSAGE.REPLY_EMAIL_IS_NOT_VALID":"Pole Odpověď zaslat na email není validní"
+
+}

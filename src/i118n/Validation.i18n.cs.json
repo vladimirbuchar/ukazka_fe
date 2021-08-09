@@ -1,0 +1,11 @@
+{
+    "VALIDATION_REQUIRED":"Povinné pole",
+    "VALIDATION_EMAIL":"Email není validní",
+    "VALIDATION_PASSWORD":"Hesla se neshodují",
+    "VALIDATION_PRICE":"Cena musí být vyšší než 0",
+    "VALIDATION_SALE":"Sleva musí být mezi 0 -100",
+    "VALIDATION_STUDENT_COUNT": "Počet studentů musí bý větší(roven) 0 a minimální počet studentů musí být meší než maximální počet",
+    "VALIDATION_PHONE":"Telefon není validní",
+    "VALIDATION_URL":"Url není validní",
+    "VALIDATION_GREATER_THAN_ZERO":"Hodnota musí být větší než nula"
+}

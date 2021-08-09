@@ -1,0 +1,16 @@
+{
+ "QUESTION_EDIT_TITLE":"Editing a question",
+ "QUESTION_TAB_BASIC_INFORMATION":"Basic information",
+ "QUESTION_ANSWERS":"Answers",
+ "QUESTION_ANSWER_MODE":"Answer mode",
+ "QUESTION":"Question",
+ "QUESTION_EDIT":"Edit",
+ "QUESTION_ANSWER_BUTTON_ADD":"Add an answer",
+ "QUESTION_ANSWER_TABLE_TITLE":"Answer",
+ "ANSWER_EDIT":"Edit",
+ "QUESTION_ANSWER_DELETE_TITLE":"Do you really want to delete",
+ "QUESTION_ANSWER_DELETE_CONTENT":"Are you sure you want to delete the answer {answer}",
+ "QUESTION_ANSWER_DELETE":"Delete",
+ "QUESTION_ANSWER_SHOW":"Answers",
+ "ERROR.QUESTION.QUESTION_IS_EMPTY":"Enter a question"
+}

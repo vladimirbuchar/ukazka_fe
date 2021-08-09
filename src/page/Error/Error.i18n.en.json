@@ -1,0 +1,6 @@
+{
+    "ERROR500_TITLE":"Server error",
+    "ERROR500_TEXT":"An error occurred while communicating with the WebApi server. If the problem persists, contact our customer service",
+    "ERROR404_TITLE":"The record is not found",
+    "ERROR404_TEXT":"We're sorry, but we were unable to find anything"
+}

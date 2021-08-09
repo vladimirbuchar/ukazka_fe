@@ -1,0 +1,8 @@
+{
+    "ADDRESS_CONTRY":"Country",
+    "ADDRESS_REGION":"Region",
+    "ADDRESS_CITY": "City",
+    "ADDRESS_STREET":"Street",
+    "ADDRESS_HOUSE_NUMBER": "No.",
+    "ADDRESS_ZIP_CODE":"Zip code"
+}

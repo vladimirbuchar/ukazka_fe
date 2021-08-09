@@ -1,0 +1,15 @@
+ {
+     "HTML_EDITOR_ENV":"Vložit proměnnou",
+     "HTML_EDITOR_ENV_FULL_NAME":"Jméno uživatele",
+     "HTML_EDITOR_ENV_COURSE_NAME":"Jméno kurzu",
+     "HTML_EDITOR_ENV_ACTUAL_DATE":"Datum",
+     "HTML_EDITOR_ENV_COURSE_TERM":"Termín kurzu",
+     "HTML_EDITOR_ENV_ORG_NAME":"Jméno organizace",
+     "HTML_EDITOR_ENV_ORG_ADDRESS_COUNTRY":"Ogranizace/Adresa sídla/Země",
+     "HTML_EDITOR_ENV_ORG_ADDRESS_CITY":"Ogranizace/Adresa sídla/Město",
+     "HTML_EDITOR_ENV_ORG_ADDRESS_REGION":"Ogranizace/Adresa sídla/Region",
+     "HTML_EDITOR_ENV_ORG_ADDRESS_HOUSE_NUMBER":"Ogranizace/Adresa sídla/číslo popisné",
+     "HTML_EDITOR_ENV_ORG_ADDRESS_STREET":"Ogranizace/Adresa sídla/Ulice",
+     "HTML_EDITOR_ENV_ORG_ADDRESS_ZIP":"Ogranizace/Adresa sídla/PSČ"
+
+ }
